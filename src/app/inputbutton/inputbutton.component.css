@@ -1,0 +1,19 @@
+#texto2{
+    border: 1px solid black;
+    color: blue;
+    display: flex;
+justify-content: space-around;
+    }
+    
+#button{
+width:80px;
+display: flex;
+
+}
+label{
+    display: flex;
+    justify-content: center;
+}
+
+
+   

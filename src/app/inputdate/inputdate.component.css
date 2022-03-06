@@ -1,0 +1,8 @@
+#texto2 {
+    border: 1px solid black;
+    color: blue;
+    display: flex;
+    justify-content: space-around;
+    width: 172px;
+
+}
